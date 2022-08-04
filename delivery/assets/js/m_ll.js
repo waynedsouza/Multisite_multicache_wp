@@ -1,0 +1,1 @@
+"undefined"!=typeof jQuery?jQuery(function(){jQuery("img.multicache_lazy").show().lazyload()}):"undefined"!=typeof $&&$(function(){$("img.multicache_lazy").show().lazyload()});
